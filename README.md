@@ -24,7 +24,7 @@ Está sendo finalizada as últimas funcionalidades e correções de bugs. O jogo
 ## Funcionalidades
 
 - **Perguntas de Múltipla Escolha**: Diversas perguntas baseadas nas edições anteriores da OBI.
-- **Feedback Imediato**: Indicadores visuais e auditivos para respostas corretas e incorretas.
+- **Feedback**: O jogo informa ao jogador as respostas que ele acertou e errou.
 - **Sistema de Pontuação**: Pontuação acumulada baseada no desempenho do jogador.
 - **Interface Intuitiva**: Design amigável e fácil de navegar.
 
