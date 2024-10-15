@@ -33,10 +33,10 @@ Está sendo finalizada as últimas funcionalidades e correções de bugs. O jogo
 Aqui estão algumas capturas de tela do Jogo Quiz OBI:
 
 <p float="left">
-  <img src="game-screenshots/Captura%20de%20tela%202024-08-03%20145110.png" alt="Tela Inicial" width="200" style="margin-right: 10px;">
-  <img src="game-screenshots/Captura%20de%20tela%202024-08-03%20145128.png" alt="Escolher tema" width="200" style="margin-right: 10px;">
-  <img src="game-screenshots/Captura%20de%20tela%202024-08-03%20145211.png" alt="Tela pergunta" width="200" style="margin-right: 10px;">
-  <img src="game-screenshots/Captura%20de%20tela%202024-08-03%20145221.png" alt="Nota Final" width="200">
+  <img src="Inicio.png" alt="Tela Inicial" width="200" style="margin-right: 10px;">
+  <img src="Fases.png" alt="Escolher tema" width="200" style="margin-right: 10px;">
+  <img src="Perguntas.png" alt="Tela pergunta" width="200" style="margin-right: 10px;">
+  <img src="NotaFinal.png" alt="Nota Final" width="200">
 </p>
 
 ## Licença
