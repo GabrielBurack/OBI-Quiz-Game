@@ -5,7 +5,6 @@ Bem-vindo ao repositório do **Jogo Quiz OBI**! Este é um jogo de quiz desenvol
 ## Índice
 
 - [Introdução](#introdução)
-- [Status do Projeto](#status-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Capturas de Tela](#capturas-de-tela)
 - [Licença](#licença)
