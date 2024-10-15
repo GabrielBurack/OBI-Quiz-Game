@@ -15,12 +15,6 @@ Bem-vindo ao repositório do **Jogo Quiz OBI**! Este é um jogo de quiz desenvol
 📱 **Este jogo é desenvolvido para a plataforma Android.** 📱  
 O Jogo Quiz OBI é uma aplicação interativa desenvolvida para testar e aprimorar os conhecimentos dos participantes da Olimpíada Brasileira de Informática. O jogo apresenta uma série de perguntas de edições anteriores da OBI.  
 
-
-## Status do Projeto
-
-⚠️ **Este jogo ainda está em desenvolvimento!** ⚠️  
-Está sendo finalizada as últimas funcionalidades e correções de bugs. O jogo já está funcional e quase pronto para lançamento.
-
 ## Funcionalidades
 
 - **Perguntas de Múltipla Escolha**: Diversas perguntas baseadas nas edições anteriores da OBI.
